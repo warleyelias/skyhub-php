@@ -1,5 +1,5 @@
 {
-    "name": "tiagosampaio/skyhub-php",
+    "name": "warleyelias/skyhub-php",
     "description": "This is the official PHP SDK for integration with SkyHub.",
     "type": "library",
     "require": {
@@ -27,14 +27,11 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Tiago Sampaio",
-            "email": "tiago@tiagosampaio.com",
+            "name": "Warley Elias",
+            "email": "warleyelias@gmail.com",
             "role": "Developer"
         }
     ],
-    "support": {
-        "email": "sdk@e-smart.com.br"
-    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
