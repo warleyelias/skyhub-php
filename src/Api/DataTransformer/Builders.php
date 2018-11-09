@@ -54,7 +54,14 @@ trait Builders
         /** @var array $specification */
         foreach ($specifications as $specification) {
             $key   = $this->arrayExtract($specification, 'key', '');
-            $value = $this->arrayExtract($specification, 'value', '');
+            if($key == "promotional_price")
+            {
+                $value = $this->arrayExtract($specification, 'value', 0);
+            }
+            else
+            {
+                $value = $this->arrayExtract($specification, 'value', '');   
+            }
 
             if (is_array($key) || is_array($value)) {
                 continue;
