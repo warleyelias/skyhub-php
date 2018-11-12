@@ -63,12 +63,12 @@ Sua contribuição é sempre bem vinda! Por favor, leia a [documentação](doc/C
 
 ## Autores
 
-Tiago Sampaio
+Warley Elias
 
 ## Suporte
 
 Para solicitações de suporte, por favor, envie um e-mail para o seguinte endereço:
 
-sdk@e-smart.com.br
+warleyelias@gmail.com
 
 ## Licença
